@@ -1,1 +1,1 @@
-# JNU-VSDL-Embedded-System-Design-with-ZYBO-LAB
+# Embedded-System-Design-with-ZYBO-LAB
